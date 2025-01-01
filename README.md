@@ -1,4 +1,4 @@
-<h1 align="center">ArkType <sub><sup>TypeScript's 1:1 validator</sup></sub></h1>
+ <h1 align="center">ArkType <sub><sup>TypeScript's 1:1 validator</sup></sub></h1>
 
 ## What is it?
 
