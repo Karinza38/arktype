@@ -26,7 +26,7 @@
 		"autoprefixer": "10.4.20",
 		"class-variance-authority": "0.7.1",
 		"framer-motion": "11.15.0",
-		"fumadocs-core": "14.6.2",
+		"fumadocs-core": "14.7.3",
 		"fumadocs-mdx": "11.1.2",
 		"fumadocs-twoslash": "2.0.2",
 		"fumadocs-ui": "14.6.2",
