@@ -29,7 +29,7 @@
 		"fumadocs-core": "14.6.2",
 		"fumadocs-mdx": "11.1.2",
 		"fumadocs-twoslash": "2.0.2",
-		"fumadocs-ui": "14.6.2",
+		"fumadocs-ui": "14.7.3",
 		"hast-util-to-jsx-runtime": "2.3.2",
 		"linkinator": "6.1.2",
 		"lucide-react": "0.469.0",
